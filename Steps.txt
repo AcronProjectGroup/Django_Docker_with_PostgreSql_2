@@ -42,5 +42,8 @@ You should not have any container about this project in advance
 =======================================================
 6- turn on your strong VPN if you'r in Iran or etc.
 =======================================================
-7- write this in Terminal
+7- Change this in Dockerfile
+FROM python:3.10
+=======================================================
+8- write this in Terminal
 docker compose up --build

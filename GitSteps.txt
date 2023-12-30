@@ -22,4 +22,5 @@
 22- run in Terminal ./U.sh
 23- Steps.txt ---> 7- write this in Terminal
 24- run in Terminal ./U.sh
-
+25- Steps.txt ---> 7- Changed to "Change this in Dockerfile"
+24- run in Terminal ./U.sh

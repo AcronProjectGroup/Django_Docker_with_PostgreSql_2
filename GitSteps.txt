@@ -20,3 +20,6 @@
 20- run in Terminal ./U.sh
 21- Steps.txt ---> 6- turn on your strong VPN if you'r in Iran or etc.
 22- run in Terminal ./U.sh
+23- Steps.txt ---> 7- write this in Terminal
+24- run in Terminal ./U.sh
+

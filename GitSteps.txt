@@ -4,3 +4,5 @@
 4- run in Terminal ./U.sh
 5- Steps.txt > 1- add this in .gitignore file
 6- run in Terminal ./U.sh
+7- 2- Change this in requirements.txt
+8- run in Terminal ./U.sh

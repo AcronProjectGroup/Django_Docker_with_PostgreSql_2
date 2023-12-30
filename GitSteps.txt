@@ -2,9 +2,12 @@
 2- Create Steps.txt
 3- Paste U.sh file in this repository
 4- run in Terminal ./U.sh
-5- Steps.txt > 1- add this in .gitignore file
+5- Steps.txt ---> 1- add this in .gitignore file
 6- run in Terminal ./U.sh
-7- 2- Change this in requirements.txt
+7- Steps.txt ---> 2- Change this in requirements.txt
 8- run in Terminal ./U.sh
 9- requirements.txt changed
 10- run in Terminal ./U.sh
+11- Steps.txt ---> 3- Change this in docker-compose.yml
+12- run in Terminal ./U.sh
+

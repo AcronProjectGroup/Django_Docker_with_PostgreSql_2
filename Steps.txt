@@ -1,6 +1,5 @@
 1- add this in .gitignore file
 __pycache__/
-
 =======================================================
 2- Change this in requirements.txt
 -i https://pypi.org/simple
@@ -11,3 +10,5 @@ django==5.0; python_version >= '3.10'
 django-crispy-forms==2.1; python_version >= '3.8'
 sqlparse==0.4.4; python_version >= '3.5'
 typing-extensions==4.9.0; python_version < '3.11'
+=======================================================
+3- Change this in docker-compose.yml

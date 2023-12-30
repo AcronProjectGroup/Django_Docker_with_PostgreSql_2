@@ -1,0 +1,4 @@
+1- Create GitSteps.txt
+2- Create Steps.txt
+3- Paste U.sh file in this repository
+4- run in Terminal ./U.sh

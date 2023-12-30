@@ -2,3 +2,5 @@
 2- Create Steps.txt
 3- Paste U.sh file in this repository
 4- run in Terminal ./U.sh
+5- Steps.txt > 1- add this in .gitignore file
+6- run in Terminal ./U.sh

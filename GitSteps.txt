@@ -18,7 +18,5 @@
 18- run in Terminal ./U.sh
 19- Steps.txt ---> 5- in Terminal write this make sure do not has that Outputs
 20- run in Terminal ./U.sh
-
-
-
-
+21- Steps.txt ---> 6- turn on your strong VPN if you'r in Iran or etc.
+22- run in Terminal ./U.sh

@@ -39,3 +39,5 @@ docker images
 
 Possible outputs:
 You should not have any container about this project in advance
+=======================================================
+6- turn on your strong VPN if you'r in Iran or etc.

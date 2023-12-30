@@ -12,3 +12,18 @@ sqlparse==0.4.4; python_version >= '3.5'
 typing-extensions==4.9.0; python_version < '3.11'
 =======================================================
 3- Change this in docker-compose.yml
+version: 'v2.21.0'
+
+services:
+  web:
+    build: .
+    command: python /code/manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/code
+    ports:
+      - 8000:8000
+
+  db:
+    image: postgres:14
+    environment:
+      - "POSTGRES_HOST_AUTH_METHOD=trust"

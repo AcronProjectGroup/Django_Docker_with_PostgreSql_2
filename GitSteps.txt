@@ -10,4 +10,7 @@
 10- run in Terminal ./U.sh
 11- Steps.txt ---> 3- Change this in docker-compose.yml
 12- run in Terminal ./U.sh
+13- Steps.txt ---> 3- Added
+14- run in Terminal ./U.sh
+
 

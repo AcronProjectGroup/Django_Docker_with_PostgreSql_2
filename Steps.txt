@@ -32,4 +32,10 @@ services:
 docker ps -a
 
 Possible outputs:
-You should not have any image about this project in advance
+You should not have any container about this project in advance
+=======================================================
+5- in Terminal write this make sure do not has that Outputs
+docker images
+
+Possible outputs:
+You should not have any container about this project in advance

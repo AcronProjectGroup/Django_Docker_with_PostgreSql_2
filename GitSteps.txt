@@ -16,6 +16,9 @@
 16- run in Terminal ./U.sh
 17- Steps.txt ---> 4- in Terminal write this make sure do not has that Outputs
 18- run in Terminal ./U.sh
+19- Steps.txt ---> 5- in Terminal write this make sure do not has that Outputs
+20- run in Terminal ./U.sh
+
 
 
 

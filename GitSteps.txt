@@ -12,5 +12,8 @@
 12- run in Terminal ./U.sh
 13- Steps.txt ---> 3- Added
 14- run in Terminal ./U.sh
+15- docker-compose.yml changed
+16- run in Terminal ./U.sh
+
 
 
